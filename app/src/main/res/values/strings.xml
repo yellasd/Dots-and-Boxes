@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dots and Boxes</string>
+    <string name="bottom_text">Dots &amp; Boxes\nVersion : 1.0.0\nDeveloped by ysd</string>
+    <string name="single_player">Single Player</string>
+    <string name="two_players">Two Players</string>
+    <string name="three_players">Three Players</string>
+    <string name="three">3 x 3</string>
+    <string name="four">4 x 4</string>
+    <string name="five">5 x 5</string>
+    <string name="six">6 x 6</string>
+    <string name="Players">Players</string>
+    <string name="grid_size">GRID SIZE</string>
+    <string name="go">GO</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="difficulty">Difficulty level of Virtual Player</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="score1">%d</string>
+    <string name="score2">%d</string>
+    <string name="score3">%d</string>
+    <string name="player3">Player 3</string>
+</resources>
